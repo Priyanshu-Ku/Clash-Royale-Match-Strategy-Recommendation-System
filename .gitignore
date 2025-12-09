@@ -1,0 +1,25 @@
+# --- Python ---
+# Virtual Environments
+venv/
+*.pyc
+__pycache__/
+
+# --- Security ---
+# Ignore the file containing secret API keys
+.env
+
+# --- IDE & OS ---
+# VSCode
+.vscode/
+# macOS
+.DS_Store
+# Windows
+Thumbs.db
+*.ini
+
+# --- Data & Models (Optional) ---
+# If your .csv files are very large (>100MB), uncomment the line below:
+# data/*.csv
+
+# If your .pkl models are very large (>100MB), uncomment the line below:
+# models/*.pkl

@@ -1,0 +1,45 @@
+#--- Core Web App & Server ---
+
+fastapi>=0.68.0
+uvicorn[standard]>=0.15.0
+streamlit>=1.0.0
+requests
+python-multipart>=0.0.5
+
+#--- LLM & AI ---
+
+google-generativeai
+python-dotenv
+
+#--- ML & Data Pipeline ---
+
+pandas>=1.3.0
+numpy>=1.20.0
+scikit-learn>=1.0.0
+joblib>=1.0.0
+imbalanced-learn    # For SMOTE
+tf-keras
+
+#--- ML Model: XGBoost ---
+
+xgboost
+
+#--- ML Model: Semantic Search ---
+
+sentence-transformers
+torch
+faiss-cpu
+
+#--- ML Model: FNN Experiment ---
+
+tensorflow
+
+#--- Visualization & Analysis ---
+
+matplotlib>=3.4.0
+seaborn>=0.11.0
+Pillow              # For st.image to load plots
+
+#--- Notebook & EDA ---
+
+notebook            # To run and edit the EDA.ipynb file
