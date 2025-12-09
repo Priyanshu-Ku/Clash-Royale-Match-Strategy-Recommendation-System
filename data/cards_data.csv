@@ -1,0 +1,139 @@
+card_name,elixir_cost,card_type,rarity,arena_unlock,targets,damage_type,range,hit_speed,hitpoints,damage,dps,speed,count,spawn_effect,special_ability,description
+Minions,3,Troop,Common,1,Air,Single,2.5,1.1,280,90,82,Fast,3,None,None,Three flying units with moderate damage.
+Archers,3,Troop,Common,1,Air,Single,5,1.2,125,75,62,Medium,2,None,None,Two ranged units that deal consistent damage.
+Knight,3,Troop,Common,1,Ground,Single,0.8,1.2,1390,150,125,Medium,1,None,None,Tough melee fighter with good HP and moderate damage.
+Spear Goblins,2,Troop,Common,1,Air,Single,5,1.1,125,40,36,Fast,3,None,None,Three cheap ranged units with quick attacks.
+Goblins,2,Troop,Common,1,Ground,Single,0.8,1.1,100,40,36,Fast,3,None,None,"Three fast melee units, low HP and damage."
+Bomber,3,Troop,Common,1,Ground,Area,3,1.5,350,100,67,Medium,1,None,None,Deals splash damage with each bomb throw.
+Skeletons,1,Troop,Common,1,Ground,Single,0.8,1,100,40,40,Very Fast,3,None,None,Three weak melee units with very fast attacks.
+Barbarians,5,Troop,Common,1,Ground,Single,0.8,1.5,600,160,107,Medium,4,None,None,Four melee units with high HP and moderate damage.
+Electro Spirit,1,Troop,Common,1,Ground,Area,1,0.8,180,90,112,Fast,1,None,None,"Jumps and zaps nearby troops, dealing area damage."
+Skeleton Dragons,4,Troop,Common,5,Air,Area,3,1.5,560,110,73,Medium,2,None,None,Flying troops dealing splash damage to nearby enemies.
+Fire Spirit,1,Troop,Common,1,Ground,Area,1,0.8,100,150,187,Very Fast,1,None,None,"Explodes on contact, dealing area damage."
+Bats,2,Troop,Common,2,Air,Single,1,1,80,50,50,Very Fast,3,None,None,Three fast flying units with low HP and damage.
+Royal Recruits,7,Troop,Common,7,Ground,Single,0.8,1.5,700,120,80,Medium,6,None,None,"Six melee units with decent HP and damage, split into two lanes."
+Royal Giant,6,Troop,Common,7,Ground,Single,6.5,1.5,1800,150,100,Slow,1,None,None,Ranged giant that targets buildings from a distance.
+Ice Spirit,1,Troop,Common,1,Ground,Area,1,1,120,50,50,Very Fast,1,None,None,Freezes and damages nearby troops/buildings on spawn.
+Berserker,4,Troop,Common,6,Ground,Single,0.8,1.2,700,150,125,Medium,1,None,None,"Rages when damaged, deals double hits."
+Skeleton Barrel,3,Troop,Common,5,Ground,Area,0.8,1,300,50,50,Fast,1,Spawns Skeletons,None,Flying barrel that drops skeletons on impact.
+Goblin Gang,3,Troop,Common,3,Ground,Single,0.8,1.1,100,40,36,Fast,6,None,None,Three melee and three ranged goblins in a single card.
+Elite Barbarians,6,Troop,Common,7,Ground,Single,0.8,1.5,750,250,167,Fast,2,None,None,Two powerful melee barbarians with high damage and moderate HP.
+Minion Horde,5,Troop,Common,5,Air,Single,2.5,1.1,280,90,82,Fast,6,None,None,Six flying units that deal massive damage if uncountered.
+Firecracker,3,Troop,Common,5,Ground,Area,5,2,300,100,50,Medium,1,None,None,Shoots a long-range firecracker that explodes on impact.
+Rascals,5,Troop,Common,6,Ground,Single,0.8,1.5,400,150,100,Medium,3,None,None,"Two melee and one ranged troop, good for support and countering pushes."
+Mini P.E.K.K.A.,4,Troop,Rare,4,Ground,Single,0.8,1.8,1000,325,180,Medium,1,None,None,Single-target melee unit with very high damage.
+Musketeer,4,Troop,Rare,4,Air,Single,6.5,1.1,340,150,136,Medium,1,None,None,Ranged attacker with consistent high damage.
+Giant,5,Troop,Rare,1,Ground,Single,0.8,1.5,2000,150,100,Slow,1,None,None,Tank that targets buildings and soaks damage.
+Valkyrie,4,Troop,Rare,4,Ground,Area,0.8,1.5,1200,180,120,Medium,1,None,None,Spins on deploy dealing area damage to nearby troops.
+Mega Minion,3,Troop,Rare,4,Air,Single,2.5,1.8,600,180,100,Medium,1,None,None,Flying unit with high single-target damage and decent HP.
+Battle Ram,4,Troop,Rare,5,Ground,Single,0.8,1.5,600,200,133,Fast,2,None,None,"Charges towards buildings dealing high damage, spawns Barbarians on impact."
+Wizard,5,Troop,Rare,5,Ground,Area,5,1.7,600,300,176,Medium,1,None,None,"Deals area splash damage with fireballs, good for clearing swarms."
+Flying Machine,4,Troop,Rare,5,Air,Single,5,1.5,400,150,100,Medium,1,None,None,Long-range flying unit with consistent damage output.
+Hog Rider,4,Troop,Rare,1,Ground,Single,0.8,1.5,1300,160,107,Fast,1,None,None,Fast building-targeting troop that jumps obstacles.
+Royal Hogs,5,Troop,Rare,7,Ground,Single,0.8,1.5,400,120,80,Fast,4,None,None,Four fast melee units that target buildings.
+Three Musketeers,9,Troop,Rare,7,Air,Single,6.5,1.1,340,150,136,Medium,3,None,None,"Three high-damage ranged units, expensive but strong."
+Battle Healer,4,Troop,Rare,5,Ground,Single,0.8,1.5,900,90,60,Medium,1,None,Heals nearby troops,Heals nearby friendly troops while dealing melee damage.
+Ice Golem,2,Troop,Rare,2,Ground,Single,0.8,1,800,60,60,Slow,1,Death Damage,None,Small tank that deals area damage upon death and slows enemies.
+Dart Goblin,3,Troop,Rare,4,Air,Single,6,1.2,150,75,62,Very Fast,1,None,None,"Ranged unit with very fast attacks, deals moderate damage from distance."
+Furnace,4,Building,Rare,5,Ground,Area,0.8,1,600,80,80,Slow,2,Spawns Fire Spirits,None,"Building that spawns Fire Spirits periodically, providing chip damage."
+Zappies,4,Troop,Rare,7,Ground,Area,0.8,1.2,400,80,66,Medium,3,None,None,"Three units that zap enemies, stunning and dealing moderate damage."
+Goblin Demolisher,5,Troop,Rare,7,Ground,Area,6,1.5,700,200,133,Slow,1,None,None,Deals splash damage to buildings from a distance.
+Heal Spirit,1,Troop,Rare,3,Ground,Area,0.8,0.8,100,0,0,Very Fast,1,Heals None,Jumps and heals friendly troops in small area.,
+Suspicious Bush,3,Troop,Rare,5,Ground,Single,0.8,1.5,500,50,33,Medium,1,None,None,Troop with stealth mechanic; activates when enemy comes near.
+Elixir Golem,3,Troop,Rare,7,Ground,Single,0.8,1.5,700,50,33,Slow,1,Split into Elixir Golemites,,"Splits into smaller Elixir Golemites on death, providing elixir advantage."
+Guards,3,Troop,Epic,3,Ground,Single,0.8,1.5,100,50,33,Fast,3,None,Shielded,Three melee units with shields that block one hit each.
+Baby Dragon,4,Troop,Epic,4,Air,Area,3.5,1.8,800,150,83,Medium,1,None,None,Flying unit that deals splash damage in an area.
+Skeleton Army,3,Troop,Epic,4,Ground,Single,0.8,1,100,50,50,Very Fast,15,None,None,Spawns a swarm of skeletons to overwhelm enemies.
+Witch,5,Troop,Epic,5,Ground,Area,5,1.7,400,120,70,Medium,1,Spawns Skeletons,None,Ranged attacker that summons skeletons and deals area damage.
+P.E.K.K.A.,7,Troop,Epic,4,Ground,Single,0.8,1.8,3000,600,333,Slow,1,None,None,High HP single-target melee unit with massive damage.
+Dark Prince,4,Troop,Epic,4,Ground,Area,0.8,1.5,1000,150,100,Medium,1,None,Shielded,Melee unit with splash damage and a shield that blocks one hit.
+Prince,5,Troop,Epic,5,Ground,Single,1.2,1.5,1200,300,200,Fast,1,Charge,None,Fast charging melee unit that deals double damage when charging.
+Balloon,5,Troop,Epic,4,Air,Single,0.8,1,1000,500,333,Slow,1,None,None,Flying unit that targets buildings and drops bombs on death.
+Giant Skeleton,6,Troop,Epic,5,Ground,Area,0.8,1.8,2500,300,167,Slow,1,Death Damage,None,Massive melee unit that deals huge death damage upon death.
+Rune Giant,8,Troop,Epic,8,Ground,Single,0.8,1.5,3500,250,167,Slow,1,None,None,"Huge tank unit with moderate damage, unlockable in high arenas."
+Goblin Giant,6,Troop,Epic,7,Ground,Single,0.8,1.5,1800,150,100,Medium,2,None,None,Tank unit that spawns two Spear Goblins on attack.
+Hunter,4,Troop,Epic,7,Ground,Area,0.8,1,700,200,200,Medium,1,None,None,"Shoots a short-range shotgun blast, high burst damage at close range."
+Golem,8,Troop,Epic,6,Ground,Single,0.8,1.5,8000,200,133,Slow,1,Death Spawn,Golemites,Massive tank that splits into two Golemites upon death.
+Electro Dragon,5,Troop,Epic,6,Air,Chain,5,1.8,800,150,83,Medium,1,None,Chain Lightning,Flying unit that deals chain lightning damage to multiple targets.
+Wall Breakers,2,Troop,Epic,5,Ground,Single,0.8,1,200,120,120,Very Fast,2,None,None,Two small units that rush buildings and explode on contact.
+Electro Giant,8,Troop,Epic,8,Ground,Single,0.8,1.5,3000,150,100,Slow,1,Shock,Reflects damage,Tank unit that deals shock damage when attacked.
+Bowler,5,Troop,Epic,5,Ground,Area,4,1.8,1200,150,83,Medium,1,None,None,"Ranged unit that rolls a boulder, knocking back enemies and dealing area damage."
+Executioner,5,Troop,Epic,5,Ground,Area,5,1.8,800,200,111,Medium,1,None,None,Throws an axe that damages all units in a line and returns.
+Cannon Cart,5,Troop,Epic,6,Ground,Single,5,1.5,800,200,133,Medium,1,None,None,"Ranged unit that moves and attacks like a cannon, becomes stationary if destroyed."
+Raging Prince,5,Troop,Epic,7,Ground,Single,1.2,1.5,1300,300,200,Fast,1,Charge,Rage Buff,Fast charging unit that deals double damage and gains rage when damaged.
+Mega Knight,7,Troop,Legendary,7,Ground,Area,1,1.5,3000,250,167,Fast,1,Jump Damage,None,"Massive tank that jumps to enemies, dealing area damage on landing."
+Ram Rider,5,Troop,Legendary,7,Ground,Single,0.8,1.5,1000,200,133,Fast,1,None,Snare,"Charges buildings, snaring units on impact."
+Electro Wizard,4,Troop,Legendary,5,Ground,Chain,5,1.8,500,180,100,Medium,1,None,Stun,Ranged unit that stuns and zaps two targets on spawn and attack.
+Inferno Dragon,4,Troop,Legendary,7,Air,Single,3,1.8,1000,20,20,Medium,1,None,Inferno Beam,"Flying unit that deals ramping damage, melting high HP targets."
+Sparky,6,Troop,Legendary,7,Ground,Area,0.8,5,1200,1000,200,Slow,1,None,Charge,Charged cannon unit that deals massive area damage every few seconds.
+Miner,3,Troop,Legendary,2,Ground,Single,0.8,1,800,200,133,Medium,1,None,None,"Deploys anywhere in the arena, targets buildings."
+Princess,3,Troop,Legendary,5,Air,Area,9,2.5,250,80,32,Very Fast,1,None,None,Ranged unit with long-range splash damage.
+Phoenix,5,Troop,Legendary,8,Air,Area,4,1.8,1000,200,111,Medium,1,Rebirth,None,Flying unit that respawns once after being destroyed.
+Royal Ghost,3,Troop,Legendary,7,Ground,Single,0.8,1.5,800,150,100,Fast,1,Invisible,None,"Invisible until attacking, deals melee damage."
+Ice Wizard,3,Troop,Legendary,5,Ground,Area,5,1.8,400,80,44,Medium,1,Slow,None,Ranged unit that slows enemies with frost attacks.
+Magic Archer,4,Troop,Legendary,6,Ground,Chain,7,1.5,400,120,80,Medium,1,None,None,Ranged unit whose projectiles pierce multiple enemies in a line.
+Bandit,3,Troop,Legendary,7,Ground,Single,0.8,1.5,600,250,167,Fast,1,Dash,None,Fast melee unit that dashes to target dealing double damage on contact.
+Lava Hound,7,Troop,Legendary,7,Air,Single,0.8,1.5,3000,60,40,Slow,1,Death Spawn,Lava Pups,Flying tank that spawns Lava Pups on death.
+Night Witch,4,Troop,Legendary,7,Ground,Area,0.8,1.5,800,80,53,Medium,1,Spawn Spawn Bats,Melee unit that spawns bats periodically while alive.,
+Lumberjack,4,Troop,Legendary,7,Ground,Single,0.8,1.5,600,150,100,Fast,1,Death Rage,None,Fast melee unit that drops Rage spell on death.
+Spirit Empress,5,Troop,Legendary,8,Ground,Area,4,1.5,1200,200,133,Medium,1,None,Spirit Damage,Melee unit with area damage and special spirit abilities.
+Goblin Machine,4,Troop,Legendary,7,Ground,Single,6,1.5,600,150,100,Medium,1,None,None,Ranged unit that targets ground and air with continuous damage.
+Mother Witch,4,Troop,Legendary,7,Ground,Single,0.8,1.5,700,120,80,Medium,1,None,Curse,"Melee unit that curses enemy troops, turning them into skeletons upon death."
+Fisherman,3,Troop,Legendary,6,Ground,Single,0.8,1.5,900,100,66,Medium,1,Pull,None,Melee unit that pulls enemy troops towards him with his hook.
+Super Lava Hound,9,Troop,Legendary,8,Air,Single,0.8,1.5,4000,80,53,Slow,1,Death Spawn,Lava Pups,Enhanced flying tank that splits into Lava Pups on death.
+Super Witch,6,Troop,Legendary,8,Ground,Area,0.8,1.8,1000,200,111,Medium,1,Spawn Spawn Skeletons,None,Enhanced Witch that summons Skeletons with stronger stats.
+Super Mini P.E.K.K.A.,5,Troop,Legendary,8,Ground,Single,0.8,1.8,1500,400,222,Fast,1,None,None,Stronger Mini P.E.K.K.A. with higher HP and damage.
+Santa Hog Rider,5,Troop,Legendary,8,Ground,Single,0.8,1.5,1300,200,133,Fast,1,None,None,Festive variant of Hog Rider with same stats and effects.
+Super Ice Golem,3,Troop,Legendary,8,Ground,Single,0.8,1,1200,80,53,Slow,1,Death Slow,None,Enhanced Ice Golem that slows enemies more on death.
+Super Magic Archer,5,Troop,Legendary,8,Ground,Chain,7,1.5,400,150,100,Medium,1,None,None,Enhanced Magic Archer with higher damage and piercing effect.
+Super Archers,4,Troop,Legendary,8,Air,Single,6.5,1.2,140,100,83,Medium,2,None,None,Enhanced Archers with higher damage per attack.
+Wizard Trio,5,Troop,Legendary,8,Ground,Area,5,1.8,800,200,111,Medium,3,None,None,Three Wizards dealing splash damage in a line.
+Super Knight,5,Troop,Legendary,8,Ground,Single,0.8,1.5,1600,250,167,Medium,1,None,None,Enhanced Knight with higher HP and damage.
+Golden Knight,4,Troop,Champion,8,Ground,Single,0.8,1.5,1200,200,133,Fast,1,Dash,None,"Fast melee unit that dashes to enemies, dealing double damage."
+Skeleton King,6,Troop,Champion,9,Ground,Single,0.8,1.5,1800,150,100,Medium,1,Revive,None,Summons skeletons periodically and revives upon death.
+Boss Bandit,5,Troop,Champion,8,Ground,Single,0.8,1.5,1400,250,167,Fast,1,Dash,None,"High-speed melee unit that dashes to enemies, dealing double damage on contact."
+Archer Queen,5,Troop,Champion,9,Ground,Single,7,1.5,500,200,133,Medium,1,None,Invisible,"Ranged attacker that becomes invisible when idle, deals high damage."
+Mighty Miner,4,Troop,Champion,8,Ground,Single,0.8,1,900,150,150,Medium,1,None,None,"Deploys anywhere in arena, targets buildings, moderate HP and damage."
+Monk,4,Troop,Champion,8,Ground,Single,0.8,1.5,1000,180,120,Medium,1,None,None,"Melee unit with moderate damage and HP, strong against swarms."
+Little Prince,4,Troop,Champion,7,Ground,Single,1.2,1.5,800,200,133,Fast,1,Charge,None,Charges toward enemies dealing double damage on first hit.
+Goblinstein,5,Troop,Champion,8,Ground,Single,0.8,1.5,1200,150,100,Medium,1,None,None,"Tank unit with decent damage, good for counter pushes."
+Terry,5,Troop,Champion,9,Ground,Single,0.8,1.5,1400,250,167,Fast,1,Charge,None,Fast charging unit that deals high damage to single target.
+Arrows,3,Spell,Common,1,Ground/Air,Area,5,0,0,200,0,Instant,0,None,None,"Deals area damage to all troops in a radius, effective against swarms."
+Zap,2,Spell,Common,1,Ground/Air,Area,4,0,0,150,0,Instant,0,Stun,None,Instantly damages and stuns troops/buildings in a small radius.
+Giant Snowball,3,Spell,Common,1,Ground/Air,Area,4,0,0,180,0,Medium,0,Knockback,None,Deals moderate area damage and pushes back enemies.
+Royal Delivery,3,Spell,Common,5,Ground,Area,4,0,0,150,0,Medium,0,Knockback,None,Drops a delivery package that damages and knocks back enemies in its path.
+Warmth,3,Spell,Common,7,Ground,Area,4,0,0,100,0,Medium,0,Heal,None,Heals friendly troops in a small area on impact.
+Fireball,4,Spell,Rare,1,Ground,Area,5,0,0,325,0,Instant,0,None,None,Deals high area damage to troops and buildings.
+Rocket,6,Spell,Rare,1,Ground,Area,11,0,0,1000,0,Slow,0,None,None,"Deals massive area damage to a small radius, high elixir cost."
+Earthquake,3,Spell,Rare,5,Ground,Area,3,0,0,180,0,Slow,0,None,None,"Deals moderate area damage over time, slows buildings and defensive units."
+Heal,3,Spell,Rare,5,Ground,Single,0,0,0,0,0,Instant,0,None,Heals,Heals friendly troops in a small radius over time.
+Goblin Barrel,3,Spell,Epic,4,Ground,Single,0.8,0,0,150,0,Instant,1,Spawns Goblins,,Throws a barrel that spawns Goblins at target location.
+Vines,3,Spell,Epic,5,Ground,Area,5,0,0,100,0,Instant,1,None,Bind,Roots and damages enemy troops in a small area.
+Lightning,6,Spell,Epic,7,Ground,Area,6,0,0,300,0,Instant,1,None,Stun,"Deals high damage to up to three highest hitpoint targets, stuns briefly."
+Freeze,4,Spell,Epic,6,Ground,Area,3.5,0,0,0,0,Instant,1,None,Freeze,Freezes troops and buildings in a small area for a few seconds.
+Barbarian Barrel,2,Spell,Epic,5,Ground,Area,1,0,0,100,0,Instant,1,Spawns Barbarians,,Rolls a barrel dealing area damage and spawns a Barbarian on impact.
+Poison,4,Spell,Epic,6,Ground,Area,3.5,1,0,150,50,Slow,1,None,DOT,Deals damage over time to all troops and buildings in a radius.
+Goblin Curse,3,Spell,Epic,5,Ground,Area,2.5,0,0,0,0,Instant,1,None,Curse,"Curses enemy troops, transforming them or weakening them over time."
+Rage,2,Spell,Epic,3,Ground,Area,2.5,0,0,0,0,Instant,1,None,Rage Buff,Increases movement and attack speed of friendly troops in the area.
+Void,5,Spell,Epic,7,Ground,Area,4,0,0,0,0,Instant,1,None,Teleport,Teleports or displaces units within a small area.
+Clone,3,Spell,Epic,6,Ground,Area,3,0,0,0,0,Instant,1,None,Clone,Duplicates all friendly troops in a small area with 1 HP.
+Tornado,3,Spell,Epic,7,Ground,Area,5,0,0,0,0,Instant,1,None,Pull,"Pulls enemy troops into the center, dealing minor damage over time."
+Mirror,1,Spell,Epic,3,Ground,Single,0.8,0,0,0,0,Instant,1,None,Copy Last Card,Casts a copy of the last card played at +1 level.
+The Log,2,Spell,Legendary,2,Ground,Area,11,0,0,160,0,Medium,0,Knockback,None,"Rolls a log across the arena, damaging and knocking back ground troops."
+Graveyard,5,Spell,Legendary,7,Ground,Spawn,4,0,0,0,0,Instant,0,Spawns Skeletons,None,Summons skeletons randomly in a large area over a duration.
+Party Rocket,6,Spell,Legendary,8,Ground,Area,5,1.5,0,250,167,Instant,0,None,Direct Damage,Deals area damage in a radius with a party rocket effect.
+Cannon,3,Building,Common,1,Ground,Single,5,1.5,400,150,100,Medium,1,None,None,"Defensive building that targets ground troops, low HP and moderate damage."
+Mortar,4,Building,Common,2,Ground,Area,7,2.5,600,200,80,Slow,1,None,None,Long-range building that deals splash damage to ground units and buildings.
+Tesla,4,Building,Common,4,Ground,Single,5.5,1.2,600,120,100,Medium,1,None,Hidden,"Defensive building that remains hidden until enemies approach, targets ground and air."
+Barbarian Launcher,5,Building,Common,8,Ground,Single,0.8,1.5,700,150,100,Medium,1,Spawn Barbarians,None,"Launches a Barbarian toward enemies periodically, providing both offense and defense."
+Goblin Cage,4,Building,Rare,5,Ground,Single,0.8,1.5,900,120,80,Medium,1,Spawn Goblin,None,"Spawns a Goblin when destroyed, acts as a defensive cage."
+Goblin Hut,5,Building,Rare,4,Ground,Single,0.8,1.5,1200,100,66,Slow,1,Spawn Spear Goblins,None,"Spawns Spear Goblins periodically, provides chip damage over time."
+Tombstone,3,Building,Rare,2,Ground,Single,0.8,1,600,50,50,Slow,1,Spawn Skeletons,None,Spawns a group of Skeletons periodically and on destruction.
+Bomb Tower,4,Building,Rare,4,Ground,Area,3,1.8,800,200,111,Medium,1,None,None,"Deals splash damage to ground troops with bombs, good for defense."
+Inferno Tower,5,Building,Rare,4,Ground,Single,0.8,1,1000,20,20,Slow,1,None,Inferno Beam,"Targets single unit with ramping damage, melts high HP troops quickly."
+Barbarian Hut,7,Building,Rare,4,Ground,Single,0.8,1.5,1800,120,80,Slow,1,Spawn Barbarians,None,"Spawns Barbarians periodically, acts as a defensive building."
+Elixir Collector,6,Building,Rare,2,Ground,Single,0,0,1200,0,0,Slow,1,None,Generate Elixir,"Generates Elixir over time, does not attack."
+X-Bow,6,Building,Epic,6,Ground,Single,11,1.5,500,40,27,Slow,1,None,None,Long-range building that targets enemy troops and towers from afar.
+Goblin Drill,4,Building,Epic,7,Ground,Single,0.8,1.5,800,120,80,Medium,1,Spawn Goblins,None,Drill that burrows underground and spawns Goblins at enemy side of arena.
+Party Hut,4,Building,Legendary,8,Ground,Area,0.8,1.5,1000,50,33,Slow,1,Spawns Party Units,None,Building that periodically spawns troops to support pushes.
+Rocket Silo,6,Building,Legendary,8,Ground,Area,6,2.5,800,300,120,Slow,1,None,Rocket Launch,Building that launches rockets dealing area damage to enemy troops and buildings.
