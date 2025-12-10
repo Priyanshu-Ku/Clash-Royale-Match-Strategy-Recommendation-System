@@ -23,3 +23,18 @@ Thumbs.db
 
 # If your .pkl models are very large (>100MB), uncomment the line below:
 # models/*.pkl
+
+# Data files we don't want in git
+data/*.csv
+data/*.txt
+
+# Local test junk
+data/test*.py
+
+# Python junk
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
