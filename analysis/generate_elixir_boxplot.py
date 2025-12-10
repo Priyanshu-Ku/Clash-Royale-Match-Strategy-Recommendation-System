@@ -3,7 +3,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import os
 import logging
-import ast # We need this to parse the card lists, even if just for archetype
 
 # --- Configuration ---
 logging.basicConfig(
