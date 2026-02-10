@@ -113,8 +113,7 @@ Follow these steps to set up and run the entire application on your local machin
 **a. Clone the Repository**
 
 ````bash
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-cd YOUR_REPO_NAME
+git clone https://github.com/Priyanshu-Ku/Clash-Royale-Match-Strategy-Recommendation-System.git
 
 b. Create and Activate a Virtual Environment
 
